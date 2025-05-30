@@ -49,7 +49,7 @@ LocalHive is built on the [uAgents](https://github.com/fetchai/uAgents) framewor
 
 ---
 
-## 🏆 Accomplishments
+## 🏆 Accomplishments (not yet ready)
 
 - Fully functional multi-agent system
 - Seamless onboarding with geocoding
